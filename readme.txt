@@ -1,1 +1,1 @@
-# Please check main branch (Thank U)
+# Please just check main branhc (thank u)
