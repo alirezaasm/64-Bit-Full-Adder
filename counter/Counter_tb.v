@@ -17,3 +17,7 @@ module usv_tb;
     s0 = 1'b1;
     
     end
+	
+always #10 clk = ~clk;
+
+end	
