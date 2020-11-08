@@ -6,7 +6,6 @@
 	input s1;
     input s0;
     input clk;
-	input [63:0]d;
-    wire [63:0]q;
+	
 	
 	endmodule
