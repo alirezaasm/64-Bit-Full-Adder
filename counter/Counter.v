@@ -9,4 +9,6 @@
 	input [63:0]d;
      wire [63:0]q;
 	
+	shift_register(s1, d, clk, s0, s, q) 
+	
 	endmodule
