@@ -7,6 +7,12 @@ module ram (Data,
     parameter data_size    = 32;
 	
 	 input reg [address_size-1:0] Data [data_size-1 : 0];
-
+		
+		
+	 always @(*)
+    begin
+        data_out = Data[address]
+    end
+	
 
 endmodule
