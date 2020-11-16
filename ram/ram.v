@@ -1,6 +1,6 @@
 module ram (Data,
-            address
-
+            address,
+            data_out
             );
 
 
