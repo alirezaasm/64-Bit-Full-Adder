@@ -25,11 +25,9 @@ module ram_tb;
         #10 $display("reg: %d", data_out)
         #10 $display("reg: %d", data_out)
     end
+	
+	    always #10 clk = ~clk;
 
 
-
-
-
-
-
+	
 endmodule
