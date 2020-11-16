@@ -5,6 +5,10 @@ module ram_tb;
 		
 	reg clk, reset,s[1:0], data_in, SISR, SISL,
     reg reg_data;
+	
+	reg Data; 
+    output wire data_out;
+
 
 
 
