@@ -26,9 +26,7 @@
     | 1 | 1 | 1 | 1 | 0    | 1   |
 
 ## Circuit Schematic
-<br>
-we can use xor gate with bit 1 to make not gate.
-![combinatorial parity circuit](src/combinatorial_parity_circuit.SVG)
+![combinatorial parity circuit](out/combinatorial_parity_circuit.SVG)
 
 
 

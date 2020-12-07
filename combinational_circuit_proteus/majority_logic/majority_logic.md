@@ -13,5 +13,5 @@
     | 1 | 1 | 1 | 1   |
 
 ## Circuit Schematic
-![alt](src/majority_circuits.SVG)
+![alt](output/majority_circuits.SVG)
 

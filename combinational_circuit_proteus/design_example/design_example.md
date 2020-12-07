@@ -42,8 +42,8 @@
 	f(a, b, c, d) = bd + bc + ab' // logic
     
 ##  three : circuit schematic
-![circuit schematic](src/design_example.SVG)
+![circuit schematic](output/design_example.SVG)
 
 ##  four : circuit schematic test
-![circuit schematic](src/design_example_test.SVG)
+![circuit schematic](output/design_example_test.SVG)
 

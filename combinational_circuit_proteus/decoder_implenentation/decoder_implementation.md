@@ -18,4 +18,4 @@
     | 1 | 1 | 1 | 1  | 0  | 1  |
 	
 ## Circuit Schematic
-![decoder implementation](src/decoder_implementation.SVG)
+![decoder implementation](output/decoder_implementation.SVG)
