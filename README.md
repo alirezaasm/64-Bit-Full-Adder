@@ -5,6 +5,7 @@
 ## I guess you did not review the following projects:
 ### 1)ram 
 ### 2)counter
+### 3)combinational_circuit_proteus
 ## If you pay attention to the history of commits, you will understand what I said
 ## Please check my words
 
