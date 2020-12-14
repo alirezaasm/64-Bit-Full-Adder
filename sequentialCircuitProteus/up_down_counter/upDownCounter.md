@@ -28,3 +28,10 @@
 | 1 | 1 |    1   |     1     |  1 |  0 |
 	 
 	 
+## Proteus Circuit
+
+    DA = a'b'ed + a'bed' + ae' + ab'd' + abd
+    DB = b'e + be'
+
+![alt](src/up_down_counter_state_circuit.svg)
+	 
