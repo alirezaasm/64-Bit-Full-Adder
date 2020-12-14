@@ -35,3 +35,6 @@
 
 ![alt](src/up_down_counter_state_circuit.svg)
 	 
+## Proteus Test Circuit
+
+![alt](src/up_down_counter.gif)	 
