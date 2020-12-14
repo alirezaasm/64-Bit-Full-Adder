@@ -17,4 +17,16 @@
 | 0 | 1 | 1 |  1 |  1 | 0 |
 | 1 | 0 | 1 |  0 |  1 | 0 |
 | 1 | 1 | 1 |  1 |  0 | 1 |
+
+## Proteus Circuit
+    DA = b
+    DB = a'b'x' + a'bx + ab'x + abx'
+    y =  a'b'x + a'bx' + ab'x' + abx
+
+![a'x + ab](src/state_diagram_circuit.SVG)
+
+
+## Proteus Circuit Test
+
+![alt](src/state_diagram_test.SVG)
 	  
